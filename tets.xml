@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<doc>
+    <students>
+        <student>margo1</student>
+        <student>margo2</student>
+        <student>margo3</student>
+        <student>margo4</student>
+    </students>
+
+    <rate>
+        test
+    </rate>
+</doc>
